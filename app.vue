@@ -1,8 +1,6 @@
 <script setup>
 import CityForm from './components/CityForm.vue'
 import WeatherData from './components/WeatherData.vue'
-
-
 </script>
 
 <template>
